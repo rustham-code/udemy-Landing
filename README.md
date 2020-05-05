@@ -1,8 +1,8 @@
 # landing page responsive udemy
 
-### agregando tarea 
-![web](/caps/web.PNG)
+### modo web 
+![web](/caps/web.JPG)
 
-### tacha y pasa a la otra tabla 
-![mob](/caps/mob.PNG)
+### modo movil
+![mob](/caps/mob.JPG)
 
